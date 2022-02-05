@@ -1,0 +1,118 @@
+body{
+    font-family: roboto;
+     margin: 0%;
+}
+header{
+    width: 100%;
+    height: 80px;
+    background: #0f337a ;
+}
+img#logo{
+   margin-left:100px ;
+   margin-right: 100px;
+   position: absolute; 
+   top: 17px;
+    left: 0;
+  
+}
+nav{
+    display: inline-block;
+    margin-left: 400px;
+    margin-top:30px;
+}
+a{
+    color: azure;
+    text-decoration: none;
+    font-weight: 10px;
+    padding:30px;
+    margin-right: 10px;
+    top: 40px;
+  
+}
+a:hover{
+    color: whitesmoke;
+    padding: 25px;
+    background: #0f337a;
+
+}
+h1{
+    font-size: 2em;
+
+}
+h2{
+    font-size: 2em;
+}
+p{
+    font-size: 2em;
+}
+button{
+    background: #101a57;
+    width: 50%;
+    height: 50px;
+    color: white;
+    border: none;
+    font-size: 2em;
+}
+#C1{
+    left: 300px;
+    top: 200px;
+    position: absolute;
+}
+.content{
+    left: 750px;
+    top: 200px;
+    position: absolute;
+}
+#C2{
+    left: 300px;
+    top: 530px;
+    position: absolute;
+}
+.content2{
+    left: 750px;
+    top:530px;
+    position: absolute;
+}
+#C3{
+    left: 300px;
+    top: 860px;
+    position: absolute;
+}
+.content3{
+    left: 750px;
+    top: 860px;
+    position: absolute;
+}
+#techsupport {
+    width: 100%;
+    height: 80px;
+    background: white;
+    position: absolute;
+    top: 1150px;
+    left: 0;
+    margin-top: -12px;
+}
+
+#foot{
+    text-align: center;
+    color: white;
+    margin-top: -32px;
+    font-size: 18px ;
+
+}
+#hiro{
+    margin-top: 22px;
+    margin-left: 100px;
+}
+button:hover{
+    background:  #09568d;
+}
+section#Judul{
+    background-color:white;
+    width: 100%;
+    height: 1100px;
+    margin-top: -30px;
+    opacity: 1;
+}
+
+
